@@ -1,4 +1,4 @@
-Portswigger Lab #5 OCT152023 
+Portswigger Lab #5 OCT152023 *SOLVED*
 
 Lab: User ID controlled by request parameter with password disclosure 
     
